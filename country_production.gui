@@ -50,8 +50,8 @@ guiTypes = {
 	windowType = {
 		name = "country_production"
 		backGround =""
-		position = { x=-512 y=-250 }	
-		size = { x=1024 y=632 }
+		position = { x=-700 y=-390 }	
+		size = { x=1024 y=700 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -60,8 +60,8 @@ guiTypes = {
 		orientation="CENTER"
 		
 		iconType = {
-			name ="main_bg"
-			spriteType = "GFX_main_bg"
+			name ="main_bg2"
+			spriteType = "GFX_main_bg2"
 			position = { x= -70 y = -70 }
 			Orientation = "UPPER_LEFT"
 		}
@@ -173,7 +173,7 @@ guiTypes = {
 		windowType = {
 			name = "investment_browser"
 			position = { x=50 y=60 }	
-			size = { x=1024 y=632 }
+			size = { x=1024 y=700 }
 			
 			# FILTERBUTTONS
 			guiButtonType = {
@@ -447,7 +447,7 @@ guiTypes = {
 		windowType = {
 			name = "factory_buttons"
 			position = { x=0 y=0 }	
-			size = { x=1024 y=632 }
+			size = { x=1024 y=700 }
 
 			iconType = {
 				name = "prod_button_bg"
@@ -557,7 +557,7 @@ guiTypes = {
 		windowType = {
 			name = "invest_buttons"
 			position = { x=0 y=0 }	
-			size = { x=1024 y=632 }
+			size = { x=1024 y=700 }
 
 			iconType = {
 				name ="prod_investment_bg"
@@ -762,7 +762,7 @@ guiTypes = {
 			name ="state_listbox"
 			position = { x = 33 y = 141 }
 			backGround=""
-			size = { x= 942 y = 468 }
+			size = { x= 942 y = 600 }
 			Orientation = "UPPER_LEFT"
 			scrollbartype = "standardlistbox_slider"
 		}
@@ -790,7 +790,7 @@ guiTypes = {
 			name = "good_production"
 			backGround =""
 			position = { x=0 y=0}	
-			size = { x=1024 y=632 }
+			size = { x=1024 y=700 }
 			moveable = 0
 			dontRender = ""
 			horizontalBorder = "0"

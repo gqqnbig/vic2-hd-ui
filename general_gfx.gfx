@@ -276,6 +276,10 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\main_bg.dds"
 	}
 	spriteType = {
+		name = "GFX_main_bg2"
+		texturefile = "gfx\\interface\\main_bg2.dds"
+	}
+	spriteType = {
 		name = "GFX_slider_circle"
 		texturefile = "gfx\\interface\\slider_circle.dds"
 	}
