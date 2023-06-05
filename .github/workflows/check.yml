@@ -36,3 +36,16 @@ jobs:
               exit 1
             fi
           done
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install Dependencies
+        run: |
+          cd .github/workflows
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run Python
+        run: |
+          cd gfx/interface/
+          ../../.github/workflows/check-dds.py
