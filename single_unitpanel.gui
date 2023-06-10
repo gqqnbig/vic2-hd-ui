@@ -15,7 +15,7 @@ guiTypes = {
 			name ="list"
 			position = { x = 0 y = 0 }
 			backGround=""
-			size = { x=312  y =310}
+			size = { x=312  y =480}
 			Orientation = "UPPER_LEFT"
 			spacing = 2
 			#scrollbartype = "standardlistbox_slider"
@@ -249,7 +249,7 @@ guiTypes = {
 			name ="list"
 			position = { x = -1 y = -35 }
 			backGround=""
-			size = { x=307  y =310}
+			size = { x=307  y =480}
 			Orientation = "UPPER_LEFT"
 			spacing = 2
 			#scrollbartype = "standardlistbox_slider"
@@ -262,7 +262,7 @@ guiTypes = {
 			track= "listboxTrackButton"
 			leftbutton = "upButton"
 			rightbutton = "downButton"
-			size = { x=6 y=315 }
+			size = { x=6 y=475 }
 			position = { x = 305 y = -35 }
 			priority = 100			
 			borderSize = {x = 0 y = 0}	
