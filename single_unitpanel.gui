@@ -320,36 +320,36 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "load_button"
-			position = { x=282 y=312}
+			position = { x=282 y=482}
 			quadTextureSprite ="GFX_unit_load_button"	
 		}
 			
 		guiButtonType = {
 			name = "unload_button"
-			position = { x=282 y=312}
+			position = { x=282 y=482}
 			quadTextureSprite ="GFX_unit_unload_button"	
 		}
 		
 		guiButtonType = {
 			name = "enable_rebel_button"
-			position = { x=222 y=312}
+			position = { x=222 y=482}
 			quadTextureSprite ="GFX_unit_hunt_rebel1"	
 		}
 		guiButtonType = {
 			name = "disable_rebel_button"
-			position = { x=222 y=312}
+			position = { x=222 y=482}
 			quadTextureSprite ="GFX_unit_hunt_rebel2"	
 		}
 			
 		guiButtonType = {
 			name = "attach_unit_button"
-			position = { x=20 y=312}
+			position = { x=20 y=482}
 			quadTextureSprite ="GFX_unit_attach_button"	
 		}
 		
 		guiButtonType = {
 			name = "detach_unit_button"
-			position = { x=20 y=312}
+			position = { x=20 y=482}
 			quadTextureSprite ="GFX_unit_detach_button"	
 		}
 
@@ -357,14 +357,14 @@ guiTypes = {
 		guiButtonType = {
 			name ="select_land"
 			quadTextureSprite ="GFX_unit_gunboat_diplo_button"	
-			position = { x= 172 y = 311 }
+			position = { x= 172 y = 481 }
 			Orientation = "UPPER_LEFT"
 			buttonText = ""
 			buttonFont = "vic_18_black"
 		}
 		instantTextBoxType = {
 			name = "header"
-			position = { x = 169 y = 319 }
+			position = { x = 169 y = 489 }
 			textureFile = ""
 			font = "Arial12_bold_black"
 			borderSize = {x = 0 y = 0}
