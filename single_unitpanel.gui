@@ -396,14 +396,14 @@ guiTypes = {
 		{
 			name ="select"
 			quadTextureSprite ="GFX_unit_siege_entry"	
-			position = { x= 0 y = 312 }
+			position = { x= 0 y = 482 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 
 		instantTextBoxType = {
 			name = "desc"
-			position = { x = 37 y = 321 }
+			position = { x = 37 y = 491 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
@@ -417,7 +417,7 @@ guiTypes = {
 		{
 			name ="attacker_flag"
 			spriteType = "GFX_flag_new"
-			position = { x= 6 y = 329 }
+			position = { x= 6 y = 499 }
 			Orientation = "UPPER_LEFT"
 		}
 
@@ -425,7 +425,7 @@ guiTypes = {
 		{
 			name ="defender_flag"
 			spriteType = "GFX_flag_new"
-			position = { x= 299 y = 329 }
+			position = { x= 299 y = 499 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -434,7 +434,7 @@ guiTypes = {
 		{
 			name ="progress"
 			spriteType = "combat_progress"
-			position = { x= 37 y = 344 }
+			position = { x= 37 y = 514 }
 			Orientation = "UPPER_LEFT"
 		}
 				
@@ -471,14 +471,14 @@ guiTypes = {
 		{
 		 name ="select"
 		 spriteType ="GFX_unit_siege_entry"	
-		 position = { x= 0 y = 312 }
+		 position = { x= 0 y = 482 }
 		 Orientation = "UPPER_LEFT"
 		}
 		
 
 		instantTextBoxType = {
 			name = "desc"
-			position = { x = 37 y = 321 }
+			position = { x = 37 y = 491 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
@@ -492,7 +492,7 @@ guiTypes = {
 		{
 			name ="attacker_flag"
 			spriteType = "GFX_flag_new"
-			position = { x= 6 y = 329 }
+			position = { x= 6 y = 499 }
 			Orientation = "UPPER_LEFT"
 		}
 
@@ -500,7 +500,7 @@ guiTypes = {
 		{
 			name ="defender_flag"
 			spriteType = "GFX_flag_new"
-			position = { x= 299 y = 329 }
+			position = { x= 299 y = 499 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -509,7 +509,7 @@ guiTypes = {
 		{
 			name ="progress"
 			spriteType = "combat_progress"
-			position = { x= 37 y = 344 }
+			position = { x= 37 y = 514 }
 			Orientation = "UPPER_LEFT"
 		}
 				
@@ -671,3 +671,4 @@ guiTypes = {
 	}
 	
 }
+
