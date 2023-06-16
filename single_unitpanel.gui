@@ -237,7 +237,7 @@ guiTypes = {
 		name = "sup_subunits"
 		backGround=""
 		position = { x=0 y=-35 }	
-		size = { x=314 y=282 }
+		size = { x=314 y=452 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder= ""
