@@ -852,19 +852,19 @@ guiTypes = {
 		guiButtonType = {
 			name = "topbarbutton_military"
 			quadTextureSprite ="GFX_topbar_button_military"
-			position = { x = 896 y = 5 }
+			position = { x = 1076 y = 5 }
 			shortcut = "F8"
 			clicksound = click
 		}
 		iconType = {
 			name ="icon_military"
 			spriteType = "GFX_topbar_military"
-			position = { x= 896 y = 2 }
+			position = { x= 1076 y = 2 }
 			Orientation = "UPPER_LEFT"
 		}
 		textBoxType = { 
 			name = "text_military_shadow"
-			position = { x = 917 y = 5 }
+			position = { x = 1097 y = 5 }
 			font = "vic_18_black_bold"
 			borderSize = {x = 0 y = 0}
 			text = "MILITARY"	
@@ -875,7 +875,7 @@ guiTypes = {
 		}
 		textBoxType = { 
 			name = "text_military"
-			position = { x = 916 y = 4 }
+			position = { x = 1096 y = 4 }
 			font = "vic_18_headline"
 			borderSize = {x = 0 y = 0}
 			text = "MILITARY"	
@@ -889,11 +889,11 @@ guiTypes = {
 		iconType = {
 			name ="topbar_army"
 			spriteType = "GFX_topbar_army"
-			position = { x= 895 y = 20 }
+			position = { x= 1075 y = 20 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
-			position = { x = 924 y = 31 }
+			position = { x = 1104 y = 31 }
 			name = "military_army_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -908,12 +908,12 @@ guiTypes = {
 		iconType = {
 			name ="topbar_navy"
 			spriteType = "GFX_topbar_navy"
-			position = { x= 895 y = 46 }
+			position = { x= 1075 y = 46 }
 			Orientation = "UPPER_LEFT"
 			#allwaystransparent = yes
 		}
 		instantTextBoxType = {
-			position = { x = 924 y = 55 }
+			position = { x = 1104 y = 55 }
 			name = "military_navy_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -928,12 +928,12 @@ guiTypes = {
 		iconType = {
 			name ="topbar_manpower"
 			spriteType = "GFX_topbar_manpower"
-			position = { x= 964 y = 20 }
+			position = { x= 1144 y = 20 }
 			Orientation = "UPPER_LEFT"
 			#allwaystransparent = yes
 		}
 		instantTextBoxType = {
-			position = { x = 988 y = 31 }
+			position = { x = 1168 y = 31 }
 			name = "military_manpower_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -948,12 +948,12 @@ guiTypes = {
 		iconType = {
 			name ="topbar_leadership"
 			spriteType = "GFX_topbar_leadership"
-			position = { x= 965 y = 45 }
+			position = { x= 1145 y = 45 }
 			Orientation = "UPPER_LEFT"
 			#allwaystransparent = yes
 		}		
 		instantTextBoxType = {
-			position = { x = 990 y = 55 }
+			position = { x = 1170 y = 55 }
 			name = "military_leadership_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
