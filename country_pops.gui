@@ -60,6 +60,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_button_thin_160"
 			buttonText = "REMOVE_FOCUS"
 			buttonFont = "vic_18_black"
+			shortcut = "r"
 		}
 		
 		instantTextBoxType = {
