@@ -26,7 +26,7 @@ guiTypes = {
 	
 	positionType = {
 		name = "diplomacy_countpercol_and_xoffset"
-		position = { x=4 y =313 }
+		position = { x=4 y =413 }
 	}
 	
 	positionType = {
