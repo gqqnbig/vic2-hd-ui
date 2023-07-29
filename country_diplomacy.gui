@@ -694,7 +694,7 @@ guiTypes = {
 		windowType = {
 			name = "diplomacy_country_facts"
 			backGround =""
-			position = { x=640 y=20 }	
+			position = { x=840 y=20 }	
 			size = { x=300 y=500 }
 			moveable = 0
 			dontRender = ""
