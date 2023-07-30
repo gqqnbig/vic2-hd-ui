@@ -41,7 +41,7 @@ guiTypes = {
 	
 	positionType = {
 		name = "diplomacy_actions_pos"
-		position = { x=677 y =395 }
+		position = { x=877 y =395 }
 	}	
 	
 	positionType = {
@@ -61,7 +61,7 @@ guiTypes = {
 	windowType = {
 		name = "country_diplomacy"
 		backGround =""
-		position = { x=-512 y=-250 }	
+		position = { x=-662 y=-250 }	
 		size = { x=1024 y=632 }
 		moveable = 0
 		dontRender = ""
@@ -680,7 +680,7 @@ guiTypes = {
 			name ="country_listbox"
 			position = { x = 27 y = 369 }
 			backGround=""
-			size = { x=620 y = 240 }
+			size = { x=820 y = 240 }
 			Orientation = "UPPER_LEFT"
 			spacing = 2
 			scrollbartype = "standardlistbox_slider"
@@ -1449,7 +1449,7 @@ guiTypes = {
 		name = "diplomacy_greatpower_info"
 		backGround =""
 		position = { x=14 y=50 }	
-		size = { x=500 y=60 }
+		size = { x=700 y=60 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -1493,24 +1493,24 @@ guiTypes = {
 		iconType = {
 			name = "prestige_icon"
 			spriteType = "GFX_topbar_prestige_opaque"
-			position = { x= 249 y = 1 }
+			position = { x= 349 y = 1 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
 			name = "industry_icon"
 			spriteType = "GFX_topbar_production"
-			position = { x= 247 y = 12 }
+			position = { x= 347 y = 12 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
 			name = "military_icon"
 			spriteType = "GFX_army_icon_2"
-			position = { x= 247 y = 27 }
+			position = { x= 347 y = 27 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = { 
 			name = "gp_prestige"
-			position = { x = 269 y = 5 }
+			position = { x = 369 y = 5 }
 			font = "Arial12_black"
 			text = "123"	
 			maxWidth = 50
@@ -1518,7 +1518,7 @@ guiTypes = {
 		}
 		instantTextBoxType = { 
 			name = "gp_economic"
-			position = { x = 269 y = 18 }
+			position = { x = 369 y = 18 }
 			font = "Arial12_black"
 			text = "123"	
 			maxWidth = 50
@@ -1526,7 +1526,7 @@ guiTypes = {
 		}
 		instantTextBoxType = { 
 			name = "gp_military"
-			position = { x = 269 y = 31 }
+			position = { x = 369 y = 31 }
 			font = "Arial12_black"
 			text = "123"	
 			maxWidth = 50
@@ -1535,7 +1535,7 @@ guiTypes = {
 		
 		instantTextBoxType = { 
 			name = "gp_total"
-			position = { x = 269 y = 44 }
+			position = { x = 369 y = 44 }
 			font = "Arial12_bold_black"
 			text = "1234"	
 			maxWidth = 50
