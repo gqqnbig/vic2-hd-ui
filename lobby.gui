@@ -611,7 +611,7 @@
 				name ="bookmarks_list"
 				position = { x = 1 y = 15 }
 				backGround=""
-				size = { x=204 y =274}
+				size = { x=408 y =274}
 				Orientation = "UPPER_LEFT"
 				spacing = 2
 				scrollbartype = "standardlistbox_slider"

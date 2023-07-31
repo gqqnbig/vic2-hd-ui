@@ -2135,7 +2135,7 @@ guiTypes = {
 			font = "Arial12_bold_black"
 			borderSize = {x = 1 y = 1}
 			text = ""	
-			maxWidth = 160
+			maxWidth = 360
 			maxHeight = 18	
 			fixedsize = yes
 		
