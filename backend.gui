@@ -440,6 +440,7 @@ guiTypes = {
 	
 	
 	### GP entry
+	# This is on the resign screen.
 	windowType = {
 		name = "great_power_entry"
 		backGround=""
