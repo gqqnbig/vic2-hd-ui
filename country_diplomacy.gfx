@@ -23,7 +23,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_bg_diplomacy"
-		texturefile = "gfx\\interface\\diplomacy_bg.dds"
+		texturefile = "gfx\\interface\\diplomacy_bg2.dds"
 		loadType = "INGAME"
 		norefcount = yes
 	}
@@ -111,7 +111,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_diplo_gp_entry"
-		texturefile = "gfx\\interface\\diplo_gp_entry.tga"
+		texturefile = "gfx\\interface\\diplo_gp_entry2.tga"
 	}
 	spriteType = {
 		name = "GFX_diplo_war_entrybg"
