@@ -15,7 +15,7 @@ guiTypes = {
 			name ="list"
 			position = { x = 0 y = 0 }
 			backGround=""
-			size = { x=312  y =310}
+			size = { x=312  y =480}
 			Orientation = "UPPER_LEFT"
 			spacing = 2
 			#scrollbartype = "standardlistbox_slider"
@@ -237,7 +237,7 @@ guiTypes = {
 		name = "sup_subunits"
 		backGround=""
 		position = { x=0 y=-35 }	
-		size = { x=314 y=282 }
+		size = { x=314 y=452 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder= ""
@@ -249,7 +249,7 @@ guiTypes = {
 			name ="list"
 			position = { x = -1 y = -35 }
 			backGround=""
-			size = { x=307  y =310}
+			size = { x=307  y =480}
 			Orientation = "UPPER_LEFT"
 			spacing = 2
 			#scrollbartype = "standardlistbox_slider"
@@ -262,7 +262,7 @@ guiTypes = {
 			track= "listboxTrackButton"
 			leftbutton = "upButton"
 			rightbutton = "downButton"
-			size = { x=6 y=315 }
+			size = { x=6 y=475 }
 			position = { x = 305 y = -35 }
 			priority = 100			
 			borderSize = {x = 0 y = 0}	
@@ -320,36 +320,36 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "load_button"
-			position = { x=282 y=312}
+			position = { x=282 y=482}
 			quadTextureSprite ="GFX_unit_load_button"	
 		}
 			
 		guiButtonType = {
 			name = "unload_button"
-			position = { x=282 y=312}
+			position = { x=282 y=482}
 			quadTextureSprite ="GFX_unit_unload_button"	
 		}
 		
 		guiButtonType = {
 			name = "enable_rebel_button"
-			position = { x=222 y=312}
+			position = { x=222 y=482}
 			quadTextureSprite ="GFX_unit_hunt_rebel1"	
 		}
 		guiButtonType = {
 			name = "disable_rebel_button"
-			position = { x=222 y=312}
+			position = { x=222 y=482}
 			quadTextureSprite ="GFX_unit_hunt_rebel2"	
 		}
 			
 		guiButtonType = {
 			name = "attach_unit_button"
-			position = { x=20 y=312}
+			position = { x=20 y=482}
 			quadTextureSprite ="GFX_unit_attach_button"	
 		}
 		
 		guiButtonType = {
 			name = "detach_unit_button"
-			position = { x=20 y=312}
+			position = { x=20 y=482}
 			quadTextureSprite ="GFX_unit_detach_button"	
 		}
 
@@ -357,14 +357,14 @@ guiTypes = {
 		guiButtonType = {
 			name ="select_land"
 			quadTextureSprite ="GFX_unit_gunboat_diplo_button"	
-			position = { x= 172 y = 311 }
+			position = { x= 172 y = 481 }
 			Orientation = "UPPER_LEFT"
 			buttonText = ""
 			buttonFont = "vic_18_black"
 		}
 		instantTextBoxType = {
 			name = "header"
-			position = { x = 169 y = 319 }
+			position = { x = 169 y = 489 }
 			textureFile = ""
 			font = "Arial12_bold_black"
 			borderSize = {x = 0 y = 0}
@@ -396,14 +396,14 @@ guiTypes = {
 		{
 			name ="select"
 			quadTextureSprite ="GFX_unit_siege_entry"	
-			position = { x= 0 y = 312 }
+			position = { x= 0 y = 482 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 
 		instantTextBoxType = {
 			name = "desc"
-			position = { x = 37 y = 321 }
+			position = { x = 37 y = 491 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
@@ -417,7 +417,7 @@ guiTypes = {
 		{
 			name ="attacker_flag"
 			spriteType = "GFX_flag_new"
-			position = { x= 6 y = 329 }
+			position = { x= 6 y = 499 }
 			Orientation = "UPPER_LEFT"
 		}
 
@@ -425,7 +425,7 @@ guiTypes = {
 		{
 			name ="defender_flag"
 			spriteType = "GFX_flag_new"
-			position = { x= 299 y = 329 }
+			position = { x= 299 y = 499 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -434,7 +434,7 @@ guiTypes = {
 		{
 			name ="progress"
 			spriteType = "combat_progress"
-			position = { x= 37 y = 344 }
+			position = { x= 37 y = 514 }
 			Orientation = "UPPER_LEFT"
 		}
 				
@@ -471,14 +471,14 @@ guiTypes = {
 		{
 		 name ="select"
 		 spriteType ="GFX_unit_siege_entry"	
-		 position = { x= 0 y = 312 }
+		 position = { x= 0 y = 482 }
 		 Orientation = "UPPER_LEFT"
 		}
 		
 
 		instantTextBoxType = {
 			name = "desc"
-			position = { x = 37 y = 321 }
+			position = { x = 37 y = 491 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
@@ -492,7 +492,7 @@ guiTypes = {
 		{
 			name ="attacker_flag"
 			spriteType = "GFX_flag_new"
-			position = { x= 6 y = 329 }
+			position = { x= 6 y = 499 }
 			Orientation = "UPPER_LEFT"
 		}
 
@@ -500,7 +500,7 @@ guiTypes = {
 		{
 			name ="defender_flag"
 			spriteType = "GFX_flag_new"
-			position = { x= 299 y = 329 }
+			position = { x= 299 y = 499 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -509,7 +509,7 @@ guiTypes = {
 		{
 			name ="progress"
 			spriteType = "combat_progress"
-			position = { x= 37 y = 344 }
+			position = { x= 37 y = 514 }
 			Orientation = "UPPER_LEFT"
 		}
 				
@@ -671,3 +671,4 @@ guiTypes = {
 	}
 	
 }
+
