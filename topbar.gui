@@ -1122,6 +1122,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_pause_bg"
 			position = { x= 159 y =87 }
 			Orientation = "UPPER_LEFT"
+			shortcut = "p"
 		}
 		
 		guiButtonType = {
